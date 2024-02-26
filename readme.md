@@ -11,7 +11,7 @@
 
 <p align="center"> Under Construction </p>
 
-<hr/>
+
 ---
 ## Instalación
 Requiere Python 3.10.12 o superior. Si quieres usar Python 3.11 (las versiones más recientes), puedes descargar en: [Python Official Downloads](https://www.python.org/downloads/ "Python Downloads").
